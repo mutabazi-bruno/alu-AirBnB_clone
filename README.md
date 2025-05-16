@@ -46,7 +46,7 @@ all	Lists all instances, optionally filtered by class	(hbnb) all or (hbnb) all U
 update	Updates an object’s attributes using its ID and the new values provided	(hbnb) update User 1234-5678 name "Alice"
 
 🧠 Project Goals
-This initial component lays the foundation for:
+Thiss initial component lays the foundation for:
 
 Object creation and manipulation from the terminal.
 
